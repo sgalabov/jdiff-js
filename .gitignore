@@ -1,2 +1,5 @@
+.*.swp
+src/*.o
 src/jdiff
 src/jptch
+/*.wasm
